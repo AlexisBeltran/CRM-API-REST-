@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "Nombre": "Jesús Alexis 3",
+      "Email": "jesus_beltran011@outlook.com",
+      "Telefono": "6691527128",
+      "Empresa": "Bio",
+      "id": 27
+    },
+    {
+      "Nombre": "Pedro",
+      "Email": "pedro@gmail.com",
+      "Telefono": "6691514785",
+      "Empresa": "Empresa",
+      "id": 29
+    }
+  ]
+}
